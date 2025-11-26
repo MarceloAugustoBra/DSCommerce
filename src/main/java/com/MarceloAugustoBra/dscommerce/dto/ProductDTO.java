@@ -1,7 +1,6 @@
 package com.MarceloAugustoBra.dscommerce.dto;
 
 import com.MarceloAugustoBra.dscommerce.entities.Product;
-import jakarta.persistence.Column;
 
 public class ProductDTO {
 

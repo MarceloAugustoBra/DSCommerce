@@ -1,7 +1,6 @@
 package com.MarceloAugustoBra.dscommerce.entities;
 
 import jakarta.persistence.*;
-import org.springframework.boot.context.properties.bind.Name;
 
 import java.time.Instant;
 import java.util.Objects;
